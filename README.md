@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Pegasus707
 - 👀 I’m interested in making **open-source contributions to projects that help people**.
-- 🌱 I’m currently learning **Python and JavaScript**.
+- 🌱 I’m currently learning **Cybersecurity**.
 - 💞️ I’m looking to collaborate on **projects that help people**.
 - 📫 How to reach me: **You can reach me via email at architsurve82@gmail.com**.
 - 😄 Pronouns: **He/Him**.
