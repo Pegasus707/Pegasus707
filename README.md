@@ -4,7 +4,7 @@ Software engineer combining a solid foundation in **Web Development** with a ded
 
 ---
 
-### 🚀 Current Focus
+### 🎯 Current Focus
 * **Data Engineering:** Architecting scalable ETL/ELT pipelines, managing data warehouses, and building distributed data processing systems.
 * **IoT Solutions:** Connecting smart devices, streaming real-time sensor data, and implementing hardware automation.
 
