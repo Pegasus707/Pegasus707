@@ -5,18 +5,19 @@ Software engineer combining a solid foundation in **Web Development** with a ded
 ---
 
 ### 🚀 Current Focus
-* **Data Engineering:** Architecting scalable ETL pipelines, optimizing databases, and designing robust data workflows.
-* **IoT Solutions:** Connecting smart devices, processing real-time sensor data, and implementing hardware automation.
+* **Data Engineering:** Architecting scalable ETL/ELT pipelines, managing data warehouses, and building distributed data processing systems.
+* **IoT Solutions:** Connecting smart devices, streaming real-time sensor data, and implementing hardware automation.
 
 ### ⏪ Background
-* **Web Development:** Experienced in building responsive, full-stack web applications and user-centric interfaces.
+* **Web Development:** Experienced in building robust backend systems, APIs, and full-stack applications.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python, SQL, JavaScript/TypeScript
-* **Data & IoT:** ETL Frameworks, Relational & NoSQL Databases, Docker, IoT Protocols
-* **Web Stack:** React, Next.js, Node.js, Vercel
+* **Languages:** Python, SQL, Bash
+* **Data Engineering:** Apache Spark, Apache Airflow, Kafka, dbt, Data Warehousing
+* **Databases:** PostgreSQL, MySQL, NoSQL (MongoDB, Redis)
+* **Infrastructure & IoT:** Docker, Git, Linux, MQTT, Cloud Platforms
 
 ---
 
