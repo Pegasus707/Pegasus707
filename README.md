@@ -1,15 +1,25 @@
+# Hi, I'm Pegasus707 👋
 
-- 👋 Hi, I’m @Pegasus707
-- 👀 I’m interested in making **open-source contributions to projects that help people**.
-- 🌱 I’m currently learning **Cybersecurity**.
-- 💞️ I’m looking to collaborate on **projects that help people**.
-- 📫 How to reach me: **You can reach me via email at architsurve82@gmail.com**.
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **Did you know that video editing was invented as early as the late 1800s by Eadweard Muybridge**.
+Software engineer combining a solid foundation in **Web Development** with a dedicated focus on **Data Engineering** and **IoT**. I specialize in designing the infrastructure that powers data-driven systems and bridging the gap between hardware and software.
 
-I hope this helps! Let me know if you have any other questions.
+---
 
-<!---
-Pegasus707/Pegasus707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Current Focus
+* **Data Engineering:** Architecting scalable ETL pipelines, optimizing databases, and designing robust data workflows.
+* **IoT Solutions:** Connecting smart devices, processing real-time sensor data, and implementing hardware automation.
+
+### ⏪ Background
+* **Web Development:** Experienced in building responsive, full-stack web applications and user-centric interfaces.
+
+---
+
+### 🛠️ Technical Toolkit
+* **Languages:** Python, SQL, JavaScript/TypeScript
+* **Data & IoT:** ETL Frameworks, Relational & NoSQL Databases, Docker, IoT Protocols
+* **Web Stack:** React, Next.js, Node.js, Vercel
+
+---
+
+### 📫 Let's Connect
+* 📧 **Email:** architsurve82@gmail.com
+* 🌐 **GitHub:** [github.com/Pegasus707](https://github.com/Pegasus707)
